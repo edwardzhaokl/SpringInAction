@@ -1,15 +1,14 @@
 package com.springinaction.knights;
 
 /**
- * author: zhaokl
- * <p>
- * created at: 17/03/2017 13:11
- * <p>
- * desc:
- */
-public class RescueDamselQuest{
+ * @author: zhaokl
+ * @creationTime: 2019/9/26 16:31:04
+ * @version: 1.0
+ * @desc:
+ **/
+public class RescueDamselQuest {
 
-	public void embark(){
+    public void embark() {
 
-	}
+    }
 }

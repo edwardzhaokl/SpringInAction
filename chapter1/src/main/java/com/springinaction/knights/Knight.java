@@ -1,13 +1,12 @@
 package com.springinaction.knights;
 
 /**
- * author: zhaokl
- * <p>
- * created at: 17/03/2017 13:10
- * <p>
- * desc:
- */
-public interface Knight{
+ * @author: zhaokl
+ * @creationTime: 2019/9/26 16:28:33
+ * @version: 1.0
+ * @desc:
+ **/
+public interface Knight {
 
-	void embarkOnQuest();
+    void embarkOnQuest();
 }
