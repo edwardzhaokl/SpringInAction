@@ -22,6 +22,6 @@ public class BraveKnight implements Knight {
 
     @Override
     public void embarkOnQuest() {
-
+        quest.embark();
     }
 }

@@ -7,4 +7,6 @@ package com.springinaction.knights;
  * @desc:
  **/
 public interface Quest {
+
+    void embark();
 }
