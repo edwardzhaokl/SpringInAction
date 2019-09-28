@@ -6,5 +6,4 @@ target
 *.iml
 rebel.xml
 .DS_Store
-rebel.xml
 fsconfig.xml
